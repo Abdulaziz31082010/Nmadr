@@ -1,4 +1,4 @@
-import { Typography, Card } from "@material-tailwind/react";
+import { Typography, Card, Navbar } from "@material-tailwind/react";
 
 export default function App() {
   return (
@@ -6,6 +6,7 @@ export default function App() {
       <h1>lorem hello</h1>
       <h2>diyor loh</h2>
       <h3>ozing loh soska</h3>
+     <Navbar>heelllllllooooo</Navbar>
     </div>
   );
 }
