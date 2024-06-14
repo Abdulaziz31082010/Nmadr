@@ -5,6 +5,7 @@ export default function App() {
     <div>
       <h1>lorem hello</h1>
       <h2>diyor loh</h2>
+      <h3>ozing loh soska</h3>
     </div>
   );
 }
